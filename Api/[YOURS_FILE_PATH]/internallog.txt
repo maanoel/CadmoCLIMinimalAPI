@@ -1,0 +1,143 @@
+2023-05-04 12:04:28.6056 Info Message Template Auto Format enabled
+2023-05-04 12:04:28.6166 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-04 12:04:28.8676 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-04 12:04:28.8727 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-04 12:04:29.0371 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Failed to create Target of type: Database
+ ---> System.ArgumentException: Target type-alias is unknown: 'Database'. Extension NLog.Database not included?
+   at NLog.Config.Factory`2.CreateInstance(String itemName)
+   at NLog.Config.LoggingConfigurationParser.FactoryCreateInstance[T](String classType, INamedItemFactory`2 factory)
+   --- End of inner exception stack trace ---
+2023-05-04 12:04:29.0897 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'database' not found for logging rule: *.
+2023-05-04 12:04:29.0986 Info Validating config: TargetNames=logfile, ownFile-web, ConfigItems=45, FilePath=C:\cadmo\Api\bin\Debug\net7.0\nlog.config
+2023-05-04 12:12:46.9744 Info Message Template Auto Format enabled
+2023-05-04 12:12:46.9886 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-04 12:12:47.0654 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-04 12:12:47.0654 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-04 12:12:47.0756 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Failed to create Target of type: Database
+ ---> System.ArgumentException: Target type-alias is unknown: 'Database'. Extension NLog.Database not included?
+   at NLog.Config.Factory`2.CreateInstance(String itemName)
+   at NLog.Config.LoggingConfigurationParser.FactoryCreateInstance[T](String classType, INamedItemFactory`2 factory)
+   --- End of inner exception stack trace ---
+2023-05-04 12:12:47.0996 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'database' not found for logging rule: *.
+2023-05-04 12:12:47.1096 Info Validating config: TargetNames=logfile, ownFile-web, ConfigItems=45, FilePath=C:\cadmo\Api\bin\Debug\net7.0\nlog.config
+2023-05-04 12:13:10.2015 Info Message Template Auto Format enabled
+2023-05-04 12:13:10.2099 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-04 12:13:10.2727 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-04 12:13:10.2727 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-04 12:13:10.2727 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Failed to create Target of type: Database
+ ---> System.ArgumentException: Target type-alias is unknown: 'Database'. Extension NLog.Database not included?
+   at NLog.Config.Factory`2.CreateInstance(String itemName)
+   at NLog.Config.LoggingConfigurationParser.FactoryCreateInstance[T](String classType, INamedItemFactory`2 factory)
+   --- End of inner exception stack trace ---
+2023-05-04 12:13:10.3001 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'database' not found for logging rule: *.
+2023-05-04 12:13:10.3097 Info Validating config: TargetNames=logfile, ownFile-web, ConfigItems=45, FilePath=C:\cadmo\Api\bin\Debug\net7.0\nlog.config
+2023-05-04 12:13:51.5663 Info Message Template Auto Format enabled
+2023-05-04 12:13:51.5955 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-04 12:13:51.6623 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-04 12:13:51.6623 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-04 12:13:51.6709 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Failed to create Target of type: Database
+ ---> System.ArgumentException: Target type-alias is unknown: 'Database'. Extension NLog.Database not included?
+   at NLog.Config.Factory`2.CreateInstance(String itemName)
+   at NLog.Config.LoggingConfigurationParser.FactoryCreateInstance[T](String classType, INamedItemFactory`2 factory)
+   --- End of inner exception stack trace ---
+2023-05-04 12:13:51.6893 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'database' not found for logging rule: *.
+2023-05-04 12:13:51.6893 Info Validating config: TargetNames=logfile, ownFile-web, ConfigItems=45, FilePath=C:\cadmo\Api\bin\Debug\net7.0\nlog.config
+2023-05-04 12:22:51.2304 Info Message Template Auto Format enabled
+2023-05-04 12:22:51.2425 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-04 12:22:51.3335 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-04 12:22:51.3335 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-04 12:22:51.3436 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Failed to create Target of type: Database
+ ---> System.ArgumentException: Target type-alias is unknown: 'Database'. Extension NLog.Database not included?
+   at NLog.Config.Factory`2.CreateInstance(String itemName)
+   at NLog.Config.LoggingConfigurationParser.FactoryCreateInstance[T](String classType, INamedItemFactory`2 factory)
+   --- End of inner exception stack trace ---
+2023-05-04 12:22:51.3661 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'database' not found for logging rule: *.
+2023-05-04 12:22:51.3754 Info Validating config: TargetNames=logfile, ownFile-web, ConfigItems=45, FilePath=C:\cadmo\Api\bin\Debug\net7.0\nlog.config
+2023-05-04 12:23:56.6916 Info Message Template Auto Format enabled
+2023-05-04 12:23:56.7014 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-04 12:23:56.8057 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-04 12:23:56.8057 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-04 12:23:56.8057 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Failed to create Target of type: Database
+ ---> System.ArgumentException: Target type-alias is unknown: 'Database'. Extension NLog.Database not included?
+   at NLog.Config.Factory`2.CreateInstance(String itemName)
+   at NLog.Config.LoggingConfigurationParser.FactoryCreateInstance[T](String classType, INamedItemFactory`2 factory)
+   --- End of inner exception stack trace ---
+2023-05-04 12:23:56.8342 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'database' not found for logging rule: *.
+2023-05-04 12:23:56.8342 Info Validating config: TargetNames=logfile, ownFile-web, ConfigItems=45, FilePath=C:\cadmo\Api\bin\Debug\net7.0\nlog.config
+2023-05-04 12:25:09.7244 Info Message Template Auto Format enabled
+2023-05-04 12:25:09.7244 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-04 12:25:09.7982 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-04 12:25:09.7982 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-04 12:25:09.8080 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Failed to create Target of type: Database
+ ---> System.ArgumentException: Target type-alias is unknown: 'Database'. Extension NLog.Database not included?
+   at NLog.Config.Factory`2.CreateInstance(String itemName)
+   at NLog.Config.LoggingConfigurationParser.FactoryCreateInstance[T](String classType, INamedItemFactory`2 factory)
+   --- End of inner exception stack trace ---
+2023-05-04 12:25:09.8324 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'database' not found for logging rule: *.
+2023-05-04 12:25:09.8413 Info Validating config: TargetNames=logfile, ownFile-web, ConfigItems=45, FilePath=C:\cadmo\Api\bin\Debug\net7.0\nlog.config
+2023-05-04 12:25:37.8571 Info Message Template Auto Format enabled
+2023-05-04 12:25:37.8691 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-04 12:25:37.9484 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-04 12:25:37.9501 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-04 12:25:37.9501 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Failed to create Target of type: Database
+ ---> System.ArgumentException: Target type-alias is unknown: 'Database'. Extension NLog.Database not included?
+   at NLog.Config.Factory`2.CreateInstance(String itemName)
+   at NLog.Config.LoggingConfigurationParser.FactoryCreateInstance[T](String classType, INamedItemFactory`2 factory)
+   --- End of inner exception stack trace ---
+2023-05-04 12:25:37.9501 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'database' not found for logging rule: *.
+2023-05-04 12:25:37.9888 Info Validating config: TargetNames=logfile, ownFile-web, ConfigItems=45, FilePath=C:\cadmo\Api\bin\Debug\net7.0\nlog.config
+2023-05-04 12:29:02.8861 Info Message Template Auto Format enabled
+2023-05-04 12:29:02.9010 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-04 12:29:02.9949 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-04 12:29:02.9971 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-04 12:29:02.9971 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Failed to create Target of type: Database
+ ---> System.ArgumentException: Target type-alias is unknown: 'Database'. Extension NLog.Database not included?
+   at NLog.Config.Factory`2.CreateInstance(String itemName)
+   at NLog.Config.LoggingConfigurationParser.FactoryCreateInstance[T](String classType, INamedItemFactory`2 factory)
+   --- End of inner exception stack trace ---
+2023-05-04 12:29:03.0366 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'database' not found for logging rule: *.
+2023-05-04 12:29:03.0470 Info Validating config: TargetNames=logfile, ownFile-web, ConfigItems=45, FilePath=C:\cadmo\Api\bin\Debug\net7.0\nlog.config
+2023-05-04 12:30:41.7735 Info Message Template Auto Format enabled
+2023-05-04 12:30:41.7831 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-04 12:30:41.8663 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-04 12:30:41.8663 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-04 12:30:41.8785 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Failed to create Target of type: Database
+ ---> System.ArgumentException: Target type-alias is unknown: 'Database'. Extension NLog.Database not included?
+   at NLog.Config.Factory`2.CreateInstance(String itemName)
+   at NLog.Config.LoggingConfigurationParser.FactoryCreateInstance[T](String classType, INamedItemFactory`2 factory)
+   --- End of inner exception stack trace ---
+2023-05-04 12:30:41.9021 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'database' not found for logging rule: *.
+2023-05-04 12:30:41.9117 Info Validating config: TargetNames=logfile, ownFile-web, ConfigItems=45, FilePath=C:\cadmo\Api\bin\Debug\net7.0\nlog.config
+2023-05-04 13:23:38.8684 Info Message Template Auto Format enabled
+2023-05-04 13:23:38.8877 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-04 13:23:39.1189 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-04 13:23:39.1208 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-04 13:23:39.1208 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Failed to create Target of type: Database
+ ---> System.ArgumentException: Target type-alias is unknown: 'Database'. Extension NLog.Database not included?
+   at NLog.Config.Factory`2.CreateInstance(String itemName)
+   at NLog.Config.LoggingConfigurationParser.FactoryCreateInstance[T](String classType, INamedItemFactory`2 factory)
+   --- End of inner exception stack trace ---
+2023-05-04 13:23:39.1557 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'database' not found for logging rule: *.
+2023-05-04 13:23:39.1647 Info Validating config: TargetNames=logfile, ownFile-web, ConfigItems=45, FilePath=C:\cadmo\Api\bin\Debug\net7.0\nlog.config
+2023-05-04 13:41:35.2681 Info Message Template Auto Format enabled
+2023-05-04 13:41:35.2681 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-04 13:41:35.3846 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-04 13:41:35.3869 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-04 13:41:35.3869 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Failed to create Target of type: Database
+ ---> System.ArgumentException: Target type-alias is unknown: 'Database'. Extension NLog.Database not included?
+   at NLog.Config.Factory`2.CreateInstance(String itemName)
+   at NLog.Config.LoggingConfigurationParser.FactoryCreateInstance[T](String classType, INamedItemFactory`2 factory)
+   --- End of inner exception stack trace ---
+2023-05-04 13:41:35.4224 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'database' not found for logging rule: *.
+2023-05-04 13:41:35.4351 Info Validating config: TargetNames=logfile, ownFile-web, ConfigItems=45, FilePath=C:\cadmo\Api\bin\Debug\net7.0\nlog.config
+2023-05-04 13:42:44.6190 Info Message Template Auto Format enabled
+2023-05-04 13:42:44.6282 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-04 13:42:44.6913 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-04 13:42:44.6913 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-04 13:42:44.6913 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Failed to create Target of type: Database
+ ---> System.ArgumentException: Target type-alias is unknown: 'Database'. Extension NLog.Database not included?
+   at NLog.Config.Factory`2.CreateInstance(String itemName)
+   at NLog.Config.LoggingConfigurationParser.FactoryCreateInstance[T](String classType, INamedItemFactory`2 factory)
+   --- End of inner exception stack trace ---
+2023-05-04 13:42:44.7183 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'database' not found for logging rule: *.
+2023-05-04 13:42:44.7262 Info Validating config: TargetNames=logfile, ownFile-web, ConfigItems=45, FilePath=C:\cadmo\Api\bin\Debug\net7.0\nlog.config
